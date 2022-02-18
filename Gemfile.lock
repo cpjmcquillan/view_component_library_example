@@ -4,6 +4,7 @@ PATH
     view_component_library_example (0.1.0)
       activemodel (>= 7.0.2.2)
       railties (>= 7.0.2.2)
+      view_component (>= 2.49.0)
 
 GEM
   remote: https://rubygems.org/
@@ -79,6 +80,9 @@ GEM
     thor (1.2.1)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
+    view_component (2.49.0)
+      activesupport (>= 5.0.0, < 8.0)
+      method_source (~> 1.0)
     zeitwerk (2.5.4)
 
 PLATFORMS

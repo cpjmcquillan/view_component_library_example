@@ -22,6 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "activemodel", ">= 7.0.2.2"
   spec.add_dependency "railties", ">= 7.0.2.2"
+  spec.add_dependency "view_component", ">= 2.49.0"
 
   spec.add_development_dependency "rspec-rails"
 end
